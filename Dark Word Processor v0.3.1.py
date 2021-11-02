@@ -1,6 +1,5 @@
 # By Brandon. Started 10/5/2021 11:40 PM.
 # Dark Word Processor Version 0.3.1
-# By Brandon Chung
 # Created: 10/5/2021
 # Last Updated: 4/10/2021
 import os
