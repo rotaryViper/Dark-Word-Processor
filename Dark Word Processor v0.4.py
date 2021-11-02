@@ -1,6 +1,5 @@
 # By Brandon. Started 10/5/2021 11:40 PM.
 # Dark Word Processor Version 0.4
-# By Brandon Chung
 # v0.1 Created: 10/5/2021
 # v0.4 Created: 4/10/2021
 # Last Updated: 14/10/2021
