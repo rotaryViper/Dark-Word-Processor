@@ -1,10 +1,10 @@
-This is my first time using Github.
-Enjoy the basic word processor.
-
-This word processor only has the features you need and nothing else.
-All functions are performed asynchronously to make the user's experience as smooth as possible.
-
-It features a:
-Scroll bar
-Word counter
+This is my first time using Github. <br />
+Enjoy the basic word processor. <br />
+<br />
+This word processor only has the features you need and nothing else. <br />
+All functions are performed asynchronously to make the user's experience as smooth as possible. <br />
+<br />
+It features a: <br />
+Scroll bar <br />
+Word counter <br />
 Window duplicator
